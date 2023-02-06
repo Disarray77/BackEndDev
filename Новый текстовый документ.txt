@@ -1,0 +1,5 @@
+1 I decided to create a diagram of a hardware store.
+2 I started creating tables in order to further make connections between them
+3. Created a chart with user and started linking to other charts.
+4 After I created the devices diagram and did the same as for user
+5 Set for communication user and email communication 1k1 because for 1 user there can be 1 email
