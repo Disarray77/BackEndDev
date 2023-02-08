@@ -1,0 +1,15 @@
+as a user, I want to see an easy and understandable design so as not to get confused
+as a user, I want a quick registration so as not to spend a lot of time on it
+as a user, I want to see search devices to speed up the search process
+as a user, I want to filter by brands and devices for convenience
+as a user, I want to link my mail to my account in order to have constant quick access to it
+as a user i want to edit my profile add photo and so on
+as a user I want to have a shopping cart so that I can easily find the product I want to buy in the future
+as a user, I want the favorites tab to add products that I like there
+as a user, I want a unique ID code for myself so that I can be easily found by it
+as a user I want a tab of promotions and bonuses for my own benefit
+as a user I want to have a referral link to invite friends to the site
+as a user, I want to link my phone to the site so that it would be easy to contact me
+as a user, I want the site to have a high level of protection so that my data is not leaked
+as a user, I want to chat with a consultant for urgent questions
+as a user, I want to see the announcements tab to keep up to date with news and discounts
