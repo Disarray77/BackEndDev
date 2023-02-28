@@ -4,12 +4,9 @@ from django.http import HttpResponse, JsonResponse
 from todo_app.models import TodoList, Todo
 from todo_app.serializers import TodoListSerializer, TodoSerializer
 from django.views.decorators.csrf import csrf_exempt
-from rest_framework.decorators import api_view
-from rest_framework.parsers import FormParser
 import json
 
 
-@api_view(['GET', 'POST'])
 @csrf_exempt
 def todo_lists_handler(request):
     if request.method == 'GET':
