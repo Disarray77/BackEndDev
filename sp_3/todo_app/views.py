@@ -7,6 +7,7 @@ from django.views.decorators.csrf import csrf_exempt
 import json
 
 
+
 @csrf_exempt
 def todo_lists_handler(request):
     if request.method == 'GET':
